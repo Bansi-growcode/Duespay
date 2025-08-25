@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import About from './components/About'
+import About from './components/about'
 import AppPreview from './components/AppPreview'
 import CoreFeatures from './components/CoreFeatures'
 import CoreFeaturesCard from './components/coreFeaturescard'
