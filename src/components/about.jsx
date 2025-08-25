@@ -43,7 +43,7 @@ const About = () => {
           viewport={{ once: false, amount: 0.3 }}
           variants={fadeUp}
         >
-          {/* Logo & Heading */}
+          {/* -- Logo & Heading -- */}
           <motion.div
             className="flex flex-col items-center mb-12"
             initial={{ opacity: 0, y: 20 }}
