@@ -2,7 +2,6 @@ import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import About from './components/About'
 import AppPreview from './components/AppPreview'
-// import AppStoreButtons from './components/appStoreButton'
 import CoreFeatures from './components/CoreFeatures'
 import CoreFeaturesCard from './components/coreFeaturescard'
 import FaqCard from './components/FaqCard'
@@ -29,7 +28,6 @@ function MainPage() {
       <div id="user">
         <Testimonials />
       </div>
-      {/* <AppStoreButtons /> */}
       <FaqCard />
     </>
   )
