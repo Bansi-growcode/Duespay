@@ -1,15 +1,15 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import About from './components/about'
-import AppPreview from './components/AppPreview'
-import CoreFeatures from './components/CoreFeatures'
+import AppPreview from './components/appPreview'
+import CoreFeatures from './components/coreFeatures'
 import CoreFeaturesCard from './components/coreFeaturescard'
-import FaqCard from './components/FaqCard'
-import Footer from './components/Footer'
+import FaqCard from './components/faqCard'
+import Footer from './components/footer'
 import Header from './components/header'
 import Home from './components/home'
 import PaymentFeatures from './components/paymentFeatures'
-import Testimonials from './components/Testimonials'
+import Testimonials from './components/testimonials'
 
 function MainPage() {
   return (

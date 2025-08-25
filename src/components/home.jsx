@@ -61,7 +61,7 @@ const Home = () => {
                     </motion.div>
                 </motion.div>
 
-                {/* Right Side: Card Image */}
+                {/* Right Side: Card Image -- */}
                 <motion.div
                     initial={{ opacity: 0, x: 50 }}
                     whileInView={{ opacity: 1, x: 0 }}
